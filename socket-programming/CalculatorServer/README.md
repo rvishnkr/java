@@ -1,2 +1,2 @@
 ## Synopsis
-A simple single threaded calculator client and server
+A single threaded calculator client and server
