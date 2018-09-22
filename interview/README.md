@@ -2,10 +2,10 @@
 
 This is a list of common programming questions to help prepare for an technical interview. 
 
-###Contents
+### Contents
 - ReverseInteger.java
 
-###Todo
+### Todo
 * IsPrime
 * Pangram
 * Anagram
