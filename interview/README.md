@@ -13,5 +13,9 @@ This is a list of common programming questions to help prepare for an technical 
 * Palindrome
 * DFS
 * BFS
+* Radix sort
+* Quick sort
+* Heap sort
+* Merge sort
 
 
