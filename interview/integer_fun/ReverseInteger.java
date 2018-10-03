@@ -1,3 +1,5 @@
+package integer_fun;
+
 import java.util.Scanner;
 
 /**

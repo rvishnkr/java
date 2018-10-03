@@ -1,9 +1,17 @@
 # Common Programming Interview Questions
 
-This is a list of common programming questions to help prepare for an technical interview. 
+Some common programming questions to help prepare for an technical interview. 
 
 ### Contents
-- ReverseInteger.java
+- integer-fun/ReverseInteger.java
+- sorting/MergeSort.java
+
+### Build
+`make all`
+
+### Run
+`java integer-fun.ReverseInteger`
+`java sorting.MergeSort`
 
 ### Todo
 * IsPrime
@@ -16,6 +24,5 @@ This is a list of common programming questions to help prepare for an technical 
 * Radix sort
 * Quick sort
 * Heap sort
-* Merge sort
 
 
