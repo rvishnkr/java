@@ -10,8 +10,9 @@ Some common programming questions to help prepare for an technical interview.
 `make all`
 
 ### Run
-`java integer-fun.ReverseInteger`
-`java sorting.MergeSort`
+From the `interview/` folder,   
+`java integer-fun.ReverseInteger`  
+`java sorting.MergeSort`  
 
 ### Todo
 * IsPrime
