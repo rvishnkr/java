@@ -1,5 +1,4 @@
-# Common Programming Interview Questions
-Useful java programs to better understand data structures, analysis of algorithms, socket programming and interview questions
+# Useful java programs to better understand data structures, analysis of algorithms, socket programming and interview questions
 
 ### Contents
 - integer-fun/ReverseInteger.java
