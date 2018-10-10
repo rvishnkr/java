@@ -1,16 +1,45 @@
-# Common Programming Interview Questions
+# Java
 Useful java programs to better understand data structures, analysis of algorithms, socket programming and interview questions
 
 ### Contents
-- integer-fun/ReverseInteger.java
-- sorting/MergeSort.java
+```bash
+├── LICENSE
+├── Makefile
+├── README.md
+├── integer
+│   ├── Makefile
+│   └── ReverseInteger.java
+├── power-set
+│   ├── PowerSet.java
+│   └── README.md
+├── socket-programming
+│   ├── CalculatorServer
+│   │   ├── CalcClient.java
+│   │   ├── CalcServer.java
+│   │   └── README.md
+│   ├── README.md
+│   └── SimpleClientServer
+│       ├── Client.java
+│       ├── README.md
+│       └── Server.java
+├── sorting
+│   ├── Makefile
+│   └── MergeSort.java
+├── strings
+│   ├── Makefile
+│   └── Permute.java
+└── test-suite
+    ├── README.md
+    └── Tests.java
+```
 
 ### Build
 `make all`
 
 ### Run
-`java integer-fun.ReverseInteger`
-`java sorting.MergeSort`
+- `java integer.ReverseInteger`
+- `java sorting.MergeSort` 
+- `java strings.Permutation`
 
 ### Todo
 * IsPrime
