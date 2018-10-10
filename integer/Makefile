@@ -1,4 +1,4 @@
-all: cd ../; make integer_fun
+all: cd ../; make integer
 		
 clean:
 	rm -rf *.class

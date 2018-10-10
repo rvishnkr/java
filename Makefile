@@ -16,7 +16,7 @@ compile: sorting integer strings
 
 sorting: sorting/MergeSort.class
 
-integer: integer/ReverseInteger.class
+integer: integer/ReverseInteger.class integer/Fibonacci.class
 
 strings: strings/Permute.class
 		
