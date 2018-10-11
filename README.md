@@ -39,6 +39,7 @@ Useful java programs to better understand data structures, analysis of algorithm
 
 ### Run
 - `java integer.ReverseInteger`
+- `java integer.Fibonacci`
 - `java sorting.MergeSort` 
 - `java strings.Permutation`
 
