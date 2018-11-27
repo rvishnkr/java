@@ -6,7 +6,7 @@ Useful java programs to better understand data structures, analysis of algorithm
 ├── LICENSE
 ├── Makefile
 ├── README.md
-├── integer
+├── numbers
 │   ├── Fibonacci.java
 │   ├── Makefile
 │   └── ReverseInteger.java
@@ -38,7 +38,9 @@ Useful java programs to better understand data structures, analysis of algorithm
 `make all`
 
 ### Run
-- `java integer.ReverseInteger`
+- `java numbers.ReverseInteger`
+- `java numbers.Fibonacci`
+- `java numbers.PiApprox`
 - `java sorting.MergeSort` 
 - `java strings.Permutation`
 
