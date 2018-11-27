@@ -1,4 +1,4 @@
-package integer_fun;
+package numbers;
 
 import java.util.Scanner;
 
