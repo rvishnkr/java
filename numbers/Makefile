@@ -1,5 +1,5 @@
 all: 
-	cd ../; make strings
-    
+	cd ../; make numbers
+		
 clean:
 	rm -rf *.class

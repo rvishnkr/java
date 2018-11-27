@@ -1,4 +1,5 @@
-all: cd ../; make sorting
+all: 
+	cd ../; make sorting
 		
 clean:
 	rm -rf *.class

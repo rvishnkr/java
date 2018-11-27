@@ -12,15 +12,15 @@ JFLAGS=
 
 all: compile
 
-compile: sorting integer strings
+compile: sorting numbers strings
 
 sorting: sorting/MergeSort.class
 
-integer: integer/ReverseInteger.class integer/Fibonacci.class
+numbers: numbers/ReverseInteger.class numbers/Fibonacci.class numbers/PiApprox.class
 
 strings: strings/Permute.class
 		
 clean:
 	cd sorting; make clean
-	cd integer; make clean
+	cd numbers; make clean
 	cd strings; make clean
