@@ -25,6 +25,8 @@ Useful java programs to better understand data structures, analysis of algorithm
 │       └── Server.java
 ├── sorting
 │   ├── Makefile
+│   ├── SelectionSort.java
+│   ├── BubbleSort.java
 │   └── MergeSort.java
 ├── strings
 │   ├── Makefile
@@ -43,6 +45,7 @@ Useful java programs to better understand data structures, analysis of algorithm
 - `java numbers.PiApprox`
 - `java sorting.MergeSort` 
 - `java sorting.SelectionSort` 
+- `java sorting.BubbleSort` 
 - `java strings.Permutation`
 
 ### Todo
