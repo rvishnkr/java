@@ -42,6 +42,7 @@ Useful java programs to better understand data structures, analysis of algorithm
 - `java numbers.Fibonacci`
 - `java numbers.PiApprox`
 - `java sorting.MergeSort` 
+- `java sorting.SelectionSort` 
 - `java strings.Permutation`
 
 ### Todo

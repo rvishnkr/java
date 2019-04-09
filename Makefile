@@ -14,9 +14,9 @@ all: compile
 
 compile: sorting numbers strings
 
-sorting: sorting/MergeSort.class
+sorting: sorting/MergeSort.class sorting/SelectionSort.class
 
-numbers: numbers/ReverseInteger.class numbers/Fibonacci.class numbers/PiApprox.class
+numbers: numbers/ReverseInteger.class	numbers/Fibonacci.class	numbers/PiApprox.class
 
 strings: strings/Permute.class
 		
